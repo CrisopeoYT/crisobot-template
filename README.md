@@ -29,7 +29,7 @@ pip install -U discord.py
 
 ### Replace your bot token
 
-Open the Python file (e.g., `main.py`) and **replace** the string `"BOT TOKEN"` at the end with your personal token:
+Open the Python file (e.g., `main.py`) on visual studio code or any other softwares and **replace** the string `"BOT TOKEN"` at the end with your personal token:
 
 ```python
 bot.run("YOUR_BOT_TOKEN")
@@ -97,7 +97,7 @@ You can change your preferred language using the `/set_language` slash command.
 ## ❤️ Support Crisopeo
 
 - YouTube: [@Crisopeo](https://www.youtube.com/@Crisopeo)
-- Discord: *[Click here to open](https://discord.gg/bGsvKC6JTP)*
+- Discord: *[La città di Crisopeo](https://discord.gg/bGsvKC6JTP)*
 
 ---
 
